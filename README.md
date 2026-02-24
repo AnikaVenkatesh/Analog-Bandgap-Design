@@ -146,6 +146,11 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="770" height="454" alt="image" src="https://github.com/user-attachments/assets/31e6f468-26c4-4a85-88c7-8c08491f416b" />
 
+## Analog Design Flow (Opensource Tools & PDK)
+
+<img width="710" height="727" alt="Screenshot 2026-02-24 000554" src="https://github.com/user-attachments/assets/69d021e7-d2ab-471c-bbe4-d378dd6c448e" />
+
+
 
 
 
