@@ -82,7 +82,7 @@ VSD Workshop Requirements:
 
 # Design
 
-**1 Current Calculation**
+**1. Current Calculation**
 
 Max. power Consumption < 60uW
 
@@ -92,7 +92,7 @@ So, we have chosen 10uA/branch, (3*10=30uA)
 
 Start-up current 1-2 uA
 
-**2 Choosing Number of BJT in parallel in Branch2**
+**2. Choosing Number of BJT in parallel in Branch2**
 
 Less number of BJT: require less resistance value but matching hampers
 
@@ -100,7 +100,7 @@ More number of BJT: requires higher resistance value but gives good matching
 
 So a moderate number have chosen (8 BJT) for better layout matching and moderate resistance value.
 
-**3 Calculation of R1**
+**3. Calculation of R1**
 
 R1= Vt* ln (8)/I =26 mv *ln(8)/10.7uA=5 KOhm
 
@@ -108,7 +108,7 @@ R1 size: W=1.41um, L=7.8um, Unit res value: 2k Ohm
 
 Number of resistance needed: 2 in series and 2 in parallel (2+2+(2||2))
 
-**4 Calculation of R2**
+**4. Calculation of R2**
 
 Current through ref branch:I3=I2=Vt*ln(8)/R1
 
@@ -122,9 +122,9 @@ Adding both and equating to zero, R2 will be around 33k Ohm
 
 Number of resistance needed: 16 in series and 2 in parallel (2+2...+2+ (2||2))
 
-**5 SBCM Design (Self-biased Current Mirror)**
+**5. SBCM Design (Self-biased Current Mirror)**
 
-A. PMOS Design in SBCM
+**A. PMOS Design in SBCM**
 
 Make both the MP1 and MP2 well in Saturation
 
@@ -132,7 +132,7 @@ To reduce channel length modulation used L=2um
 
 Finally the size is L=2u, W=5u and M=4
 
-B. NMOS Design in SBCM
+**B. NMOS Design in SBCM**
 
 Make both the MN1 and MN2 either in Saturation or in deep sub-threshold
 
@@ -141,6 +141,11 @@ We have made it in deep sub-threshold
 To reduce channel length modulation used L=1um
 
 Finally the size is L=1u, W=5u and M=8
+
+## Final Circuit
+
+<img width="770" height="454" alt="image" src="https://github.com/user-attachments/assets/31e6f468-26c4-4a85-88c7-8c08491f416b" />
+
 
 
 
