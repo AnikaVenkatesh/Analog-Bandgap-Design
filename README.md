@@ -54,7 +54,7 @@ Among these methods, the CTAT–PTAT based approach is the most popular and robu
 
 # Design Specifications 
 
-VSD Workshop Requirements
+VSD Workshop Requirements:
 
 ⦁ Supply voltage = 1.8V
 
