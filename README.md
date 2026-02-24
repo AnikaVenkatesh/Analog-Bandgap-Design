@@ -27,3 +27,21 @@ Another widely used architecture is the operational-amplifier-based bandgap refe
 - In digital and mixed-signal ICs, bandgap references provide bias voltages and currents for high-speed logic, memory circuits, and I/O interfaces. Consistent biasing across temperature and process corners ensures predictable performance and improves overall system reliability.
 
 - In application-specific domains such as RF systems, portable IoT devices, and industrial electronics, bandgap references play a vital role in maintaining stable operation under wide temperature ranges and low-power constraints. Their ability to deliver a reliable reference voltage makes them indispensable in modern analog and mixed-signal IC design.
+
+**System on Chip (SoC) - "Vref" connected across various blocks**
+
+<img width="718" height="421" alt="image" src="https://github.com/user-attachments/assets/7093bacc-4055-4d1a-9fb6-9870a65164b7" />
+
+# Working Principle
+
+Methods to realize voltage references in integrated circuits.
+
+-  Making use of a zener diode that breaks down at a known voltage when reverse biased.
+
+- Making use of the difference in the threshold voltage between an enhancement transistor and a depletion transistor.
+
+- Cancelling the negative temperature dependence of a pn junction with a positive temperature dependence from a PTAT (proportional-to-absolute-temperature) circuit.
+
+
+
+
