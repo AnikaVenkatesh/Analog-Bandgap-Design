@@ -227,6 +227,20 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="973" height="534" alt="image" src="https://github.com/user-attachments/assets/fa0ed071-6ec8-40e1-9480-64c9631e93f7" />
 
+## **5. Layout of the components**
+
+<img width="648" height="619" alt="resbank" src="https://github.com/user-attachments/assets/972eaebf-4b8c-4c76-a305-52509a11546b" />
+
+**nfets**
+
+<img width="701" height="623" alt="nets" src="https://github.com/user-attachments/assets/2665788d-fc86-452b-8e89-9c12b54e5f75" />
+
+**pnp**
+
+
+
+
+
 
 
 
