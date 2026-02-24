@@ -175,6 +175,52 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="1652" height="871" alt="ctat@2v" src="https://github.com/user-attachments/assets/3f2aed50-08d6-45d5-87c5-5e8ef3227eba" />
 
+**Multiple Current Sources**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 03-04-55" src="https://github.com/user-attachments/assets/c10f4c34-dee2-4252-8ade-e9f50a59a7d8" />
+
+
+**Spice Execution PLot**
+
+<img width="1059" height="772" alt="ctat_cur" src="https://github.com/user-attachments/assets/ad5b933c-4832-4000-9c1d-5665afe0c592" />
+
+**2. PTAT Simulation**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 02-38-42" src="https://github.com/user-attachments/assets/02bdef79-02bb-4ce3-a0d0-435ef73f4176" />
+
+**Spice Execution PLot**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 01-26-53" src="https://github.com/user-attachments/assets/6f3e142f-2dab-41ca-9ab2-e47fdaa4c0d6" />
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 01-26-35" src="https://github.com/user-attachments/assets/c113ba88-7d4d-47ab-8c45-1120ede07a9b" />
+
+**3. BGR Simulation and prelayout simulation**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 02-37-12" src="https://github.com/user-attachments/assets/167ec5b0-8195-40cc-a08f-be6af34444d7" />
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 02-37-24" src="https://github.com/user-attachments/assets/313ea7a7-37d6-46b5-b9fa-6e8c947d337e" />
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 02-37-32" src="https://github.com/user-attachments/assets/0b193c5f-2213-4568-90e4-7cdb5fbeeb68" />
+
+
+**Spice Execution PLot**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 01-33-01" src="https://github.com/user-attachments/assets/d5da6392-fb35-4f9a-a6c2-173588514cc2" />
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 01-33-20" src="https://github.com/user-attachments/assets/23293797-fa8f-4ee9-bb82-feeb392f0e98" />
+
+**4.Startup Circuit Simulation**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
