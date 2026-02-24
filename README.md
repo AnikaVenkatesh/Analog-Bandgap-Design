@@ -165,7 +165,7 @@ Finally the size is L=1u, W=5u and M=8
 
 # Lab Simulations 
 
-**1. CTAT Simulation**
+## **1. CTAT Simulation**
 
 <img width="1366" height="643" alt="Screenshot from 2026-02-25 02-38-24" src="https://github.com/user-attachments/assets/abdc6c0a-d539-4846-9dbb-2eaf74851043" />
 
