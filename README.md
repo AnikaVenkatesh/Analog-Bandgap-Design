@@ -233,9 +233,15 @@ Finally the size is L=1u, W=5u and M=8
 
 **nfets**
 
-<img width="701" height="623" alt="nets" src="https://github.com/user-attachments/assets/2665788d-fc86-452b-8e89-9c12b54e5f75" />
+<img width="927" height="534" alt="image" src="https://github.com/user-attachments/assets/351ba076-e2a5-4710-ac83-e71607546580" />
+
 
 **pnp**
+
+<img width="887" height="543" alt="image" src="https://github.com/user-attachments/assets/c073184a-cf17-4908-870c-ee63250b6dd6" />
+
+**pnpt**
+
 
 
 
