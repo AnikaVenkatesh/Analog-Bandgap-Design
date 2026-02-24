@@ -219,6 +219,18 @@ Finally the size is L=1u, W=5u and M=8
 
 **Spice Execution PLot**
 
+<img width="973" height="529" alt="image" src="https://github.com/user-attachments/assets/eb837b0e-1a84-4461-bf07-0d9b66d03462" />
+
+<img width="975" height="533" alt="image" src="https://github.com/user-attachments/assets/b79c64a2-943a-445f-becd-d309900a2fb9" />
+
+<img width="976" height="534" alt="image" src="https://github.com/user-attachments/assets/49f3e572-c002-483d-b596-426730c70e68" />
+
+<img width="973" height="534" alt="image" src="https://github.com/user-attachments/assets/fa0ed071-6ec8-40e1-9480-64c9631e93f7" />
+
+
+
+
+
 
 
 
