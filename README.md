@@ -244,6 +244,37 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="624" height="621" alt="pnpt1" src="https://github.com/user-attachments/assets/abfca84c-da37-4991-8fc3-183f519a56ab" />
 
+**starternfet**
+
+<img width="1092" height="342" alt="image" src="https://github.com/user-attachments/assets/bf6fc080-6d50-474f-81d0-3246f5c3ed2e" />
+
+**Top level**
+
+<img width="458" height="629" alt="image" src="https://github.com/user-attachments/assets/56f1cbc0-ce4b-4674-98e2-61e6afa1d162" />
+
+## **6. LVS postlayout**
+
+<img width="761" height="567" alt="image" src="https://github.com/user-attachments/assets/519aa842-a418-48f6-aba8-8924391fa1de" />
+
+**Layout Versus Schematic**
+
+<img width="775" height="534" alt="image" src="https://github.com/user-attachments/assets/8b496308-ba27-4c84-a51e-5801b02b44fc" />
+
+
+**Final LVS Comparison**
+
+<img width="555" height="542" alt="image" src="https://github.com/user-attachments/assets/905a7d16-a534-4809-a2a1-98be0e20cc02" />
+
+<img width="766" height="553" alt="image" src="https://github.com/user-attachments/assets/d639c638-f5d0-4fb4-9c64-6796fda2fada" />
+
+
+
+
+
+
+
+
+
 
 
 
