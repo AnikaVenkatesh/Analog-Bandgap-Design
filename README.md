@@ -1,6 +1,7 @@
 # Analog-Bandgap-Design
 
-<img width="1536" height="735" alt="image" src="https://github.com/user-attachments/assets/554123be-ac88-426a-b838-aae639cb829a" />
+<img width="1405" height="730" alt="image" src="https://github.com/user-attachments/assets/29ae8a2a-6d55-45ae-95f4-f4da37403d5a" />
+
 
 This repository documents the learning experience from a 10-day Analog Bandgap Design Workshop by VSD Corp. Pvt. Ltd.
 
@@ -79,15 +80,19 @@ VSD Workshop Requirements:
 
 **MOSFET**
 
-<img width="812" height="195" alt="image" src="https://github.com/user-attachments/assets/04f42301-f26b-4fbc-928a-7b28ee01637d" />
+<img width="1403" height="517" alt="image" src="https://github.com/user-attachments/assets/4324999d-b04c-46a4-8bab-8f9faa3766a2" />
+
 
 **BJT**
 
-<img width="629" height="217" alt="image" src="https://github.com/user-attachments/assets/adf3ee3a-710a-475c-8459-2968f3229bf4" />
+
+<img width="791" height="583" alt="image" src="https://github.com/user-attachments/assets/15073b94-b4e9-45a7-9e0e-bd94bd53e84e" />
+
 
 **RESISTOR**
 
-<img width="664" height="187" alt="image" src="https://github.com/user-attachments/assets/c820a34f-d380-4544-84dc-f97497b25b4f" />
+<img width="893" height="629" alt="image" src="https://github.com/user-attachments/assets/445036d1-5196-4eec-92ae-64aa639610e2" />
+
 
 # Design
 
@@ -266,6 +271,13 @@ Finally the size is L=1u, W=5u and M=8
 <img width="555" height="542" alt="image" src="https://github.com/user-attachments/assets/905a7d16-a534-4809-a2a1-98be0e20cc02" />
 
 <img width="766" height="553" alt="image" src="https://github.com/user-attachments/assets/d639c638-f5d0-4fb4-9c64-6796fda2fada" />
+
+# **Acknowledgements**
+
+I would like to express my sincere gratitude to:
+
+- [Kunal Ghosh](https://github.com/kunalg123) – Co-founder, VSD Corp. Pvt. Ltd.
+
 
 
 
