@@ -184,7 +184,7 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="1059" height="772" alt="ctat_cur" src="https://github.com/user-attachments/assets/ad5b933c-4832-4000-9c1d-5665afe0c592" />
 
-**2. PTAT Simulation**
+## **2. PTAT Simulation**
 
 <img width="1366" height="643" alt="Screenshot from 2026-02-25 02-38-42" src="https://github.com/user-attachments/assets/02bdef79-02bb-4ce3-a0d0-435ef73f4176" />
 
@@ -194,7 +194,7 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="1366" height="643" alt="Screenshot from 2026-02-25 01-26-35" src="https://github.com/user-attachments/assets/c113ba88-7d4d-47ab-8c45-1120ede07a9b" />
 
-**3. BGR Simulation and prelayout simulation**
+## **3. BGR Simulation and prelayout simulation**
 
 <img width="1366" height="643" alt="Screenshot from 2026-02-25 02-37-12" src="https://github.com/user-attachments/assets/167ec5b0-8195-40cc-a08f-be6af34444d7" />
 
@@ -209,7 +209,18 @@ Finally the size is L=1u, W=5u and M=8
 
 <img width="1366" height="643" alt="Screenshot from 2026-02-25 01-33-20" src="https://github.com/user-attachments/assets/23293797-fa8f-4ee9-bb82-feeb392f0e98" />
 
-**4.Startup Circuit Simulation**
+## **4.Startup Circuit Simulation**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 03-19-26" src="https://github.com/user-attachments/assets/82ce41f6-3fdf-44b6-a960-2175d3c4eb7b" />
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 03-19-33" src="https://github.com/user-attachments/assets/95957dee-e4f5-4b68-a78a-a4e5038578c2" />
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 03-19-41" src="https://github.com/user-attachments/assets/87165990-a68b-4110-801c-59a0a310034e" />
+
+**Spice Execution PLot**
+
+
+
 
 
 
