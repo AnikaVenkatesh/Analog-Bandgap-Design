@@ -91,6 +91,9 @@ VSD Workshop Requirements:
 
 # Design
 
+<img width="263" height="505" alt="Equation" src="https://github.com/user-attachments/assets/31fc6f2b-acb1-4f31-9262-2670eade081f" />
+
+
 **1. Current Calculation**
 
 Max. power Consumption < 60uW
@@ -153,7 +156,8 @@ Finally the size is L=1u, W=5u and M=8
 
 ## Final Circuit
 
-<img width="770" height="454" alt="image" src="https://github.com/user-attachments/assets/31e6f468-26c4-4a85-88c7-8c08491f416b" />
+<img width="822" height="518" alt="finalbgr" src="https://github.com/user-attachments/assets/11873efd-aed2-4a46-b18f-c7a271c74195" />
+
 
 ## Analog Design Flow (Opensource Tools & PDK)
 
@@ -162,6 +166,18 @@ Finally the size is L=1u, W=5u and M=8
 # Lab Simulations 
 
 **1. CTAT Simulation**
+
+<img width="1366" height="643" alt="Screenshot from 2026-02-25 02-38-24" src="https://github.com/user-attachments/assets/abdc6c0a-d539-4846-9dbb-2eaf74851043" />
+
+
+**Spice Execution PLot**
+
+
+<img width="1652" height="871" alt="ctat@2v" src="https://github.com/user-attachments/assets/3f2aed50-08d6-45d5-87c5-5e8ef3227eba" />
+
+
+
+
 
 
 
