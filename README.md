@@ -6,6 +6,9 @@ This repository documents the learning experience from a 10-day Analog Bandgap D
 
 # Introduction
 
+<img width="560" height="218" alt="BGR1" src="https://github.com/user-attachments/assets/0d8f909a-47af-4800-9888-bb9b21111cc0" />
+
+
 A Bandgap Reference (Voltage Reference) is one of the most important building blocks in analog integrated circuit design. It is used to generate a stable reference voltage that remains nearly constant despite variations in supply voltage, temperature, and process parameters. In real-world operating conditions, temperature fluctuations and supply noise are unavoidable, and without a reliable reference, the performance of analog and mixed-signal circuits degrades significantly.
 
 The bandgap reference overcomes these challenges by combining temperature-dependent components in a controlled manner. By adding a PTAT (Proportional To Absolute Temperature) voltage with a CTAT (Complementary To Absolute Temperature) voltage, the overall temperature dependence is minimized. This results in a reference voltage typically close to 1.2 V, which serves as a stable baseline for many on-chip circuits.
@@ -33,6 +36,12 @@ Another widely used architecture is the operational-amplifier-based bandgap refe
 <img width="718" height="421" alt="image" src="https://github.com/user-attachments/assets/7093bacc-4055-4d1a-9fb6-9870a65164b7" />
 
 # Working Principle
+
+<img width="751" height="490" alt="BGR" src="https://github.com/user-attachments/assets/3ad564a4-cee9-4311-8012-2c1335c9d500" />
+
+<img width="749" height="455" alt="BGR_Principle" src="https://github.com/user-attachments/assets/74b6ac01-3e92-4dc5-a9ac-402b2b780c79" />
+
+
 
 Methods to realize voltage references in integrated circuits.
 
