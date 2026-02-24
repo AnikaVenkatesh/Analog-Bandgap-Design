@@ -52,6 +52,37 @@ Among these methods, the CTAT–PTAT based approach is the most popular and robu
 
 <img width="703" height="109" alt="image" src="https://github.com/user-attachments/assets/f692e3e3-3df7-4e42-9f1b-a3add6ea47e8" />
 
+# Design Specifications 
+
+VSD Workshop Requirements
+
+⦁ Supply voltage = 1.8V
+
+⦁ Temperature: -40 to 125 Deg Cent.
+
+⦁ Power Consumption < 60uW
+
+⦁ Off current < 2uA
+
+⦁ Start-up time < 2us
+
+⦁ Tempco. Of Vref < 50 ppm
+
+**MOSFET**
+
+<img width="812" height="195" alt="image" src="https://github.com/user-attachments/assets/04f42301-f26b-4fbc-928a-7b28ee01637d" />
+
+**BJT**
+
+<img width="629" height="217" alt="image" src="https://github.com/user-attachments/assets/adf3ee3a-710a-475c-8459-2968f3229bf4" />
+
+**RESISTOR**
+
+<img width="664" height="187" alt="image" src="https://github.com/user-attachments/assets/c820a34f-d380-4544-84dc-f97497b25b4f" />
+
+
+
+
 
 
 
